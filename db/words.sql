@@ -20,7 +20,8 @@ INSERT INTO nouns(word) VALUES
   ('fjørd'),
   ('legø'),
   ('flødebolle'),
-  ('smørrebrød');
+  ('smørrebrød'),
+  ('foat');
 
 INSERT INTO verbs(word) VALUES
   ('will drink'),
